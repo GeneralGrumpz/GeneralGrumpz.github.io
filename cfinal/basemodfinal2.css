@@ -211,7 +211,7 @@
 }
 
 .xbox .face {
-    background: url(dpadmod);
+    background: url(dpadmod.png);
     position: absolute;
     opacity: 0;
 }
